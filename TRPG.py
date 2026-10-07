@@ -385,7 +385,7 @@ def main():
 
     print("Press enter to exit...")
 
-# E.E.E (Evil Easter Egg) >:)
+# E.E.E (Evil Easter Egg) >:p
 
 if __name__ == "__main__":
     main()
